@@ -6,6 +6,7 @@ install
 ^^^^^^^
 
     $ pip install timesheet
+    $ pip install pymlconf==0.8.9
         
         
 usage
