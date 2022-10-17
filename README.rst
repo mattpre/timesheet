@@ -5,7 +5,7 @@ timesheet
 install
 ^^^^^^^
 
-    $ pip install timesheet
+    $ pip install git+https://github.com/mattpre/timesheet.git
     $ pip install pymlconf==0.8.9
         
         
