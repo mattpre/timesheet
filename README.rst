@@ -5,6 +5,8 @@ timesheet
 install
 ^^^^^^^
 
+::
+
     pip install git+https://github.com/mattpre/timesheet.git@daily-summary
     pip install pymlconf==0.8.9
         
