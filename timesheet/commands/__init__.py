@@ -14,6 +14,7 @@ from .abort import AbortCommand
 from .rename import RenameCommand
 from .daily_report import DailyReportCommand
 from .daily_detail import DailyDetailCommand
+from .daily_summary import DailySummaryCommand
 from .delete import DeleteCommand
 from .version import VersionCommand
 
